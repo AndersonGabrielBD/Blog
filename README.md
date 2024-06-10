@@ -3,7 +3,7 @@ Este projeto consiste no desenvolvimento de um blog utilizando React.js, com o o
 
 Clone o Repositório:
 
-git clone https://github.com/seu-usuario/https://github.com/AndersonGabrielBD/Blog.git
+git clone https://github.com/AndersonGabrielBD/Blog.git
 cd react-axios
 
 Instale as Dependências:
