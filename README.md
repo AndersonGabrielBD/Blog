@@ -1,4 +1,4 @@
-Descrição do Projeto
+Descrição do Projeto:
 Este projeto consiste no desenvolvimento de um blog utilizando React.js, com o objetivo principal de servir como ferramenta educativa para estudantes de desenvolvimento de software. O blog é integrado a uma API JSON para facilitar a leitura de postagens, proporcionando um ambiente de aprendizado prático e aplicado.
 
 Clone o Repositório:
