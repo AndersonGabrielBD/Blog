@@ -4,5 +4,5 @@ Com funções de leituras e crianção de post
 
 
 Integrantes:
-Anderson Gabriel
+Anderson Gabriel e
 João Paulo
